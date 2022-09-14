@@ -1,0 +1,12 @@
+table {
+    width: 100%;
+}
+
+.mat-header-row::ng-deep {
+    background-color: lightgreen;
+    background: linear-gradient(45deg, darkturquoise, deeppink);
+}
+
+.mat-form-field {
+    width: 100%;
+}
